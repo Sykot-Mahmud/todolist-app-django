@@ -1,0 +1,1 @@
+web gunicorn todolist_app_django.wsgi:application --log-file -
